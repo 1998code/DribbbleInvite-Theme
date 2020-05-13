@@ -6,6 +6,7 @@ Share your invite without share/spam your email anymore.
 
 ## How to install
 Steps:
+
 1a. Fork/ 1b.Clone the repo
 
 2a. Enable Github Pages / 2b. Upload to your own server (EC2, S3, etc)
